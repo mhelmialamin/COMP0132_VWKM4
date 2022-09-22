@@ -1,2 +1,7 @@
 # COMP0132_VWKM4
-UCL_COMP0132_VWKM4 MSc Robotics and Computation
+University College London
+MSc Robotics and Computation
+COMP0132 MSc Project and Dissertation
+Name: Muhammad Helmi Al Amin
+Student Number: 20110211
+Candidate Number: VWKM4
