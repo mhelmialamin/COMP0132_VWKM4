@@ -1,0 +1,592 @@
+path: logs/hpatches_superPointNet_50000_fullKITTI/predictions/
+output Images: True
+repeatability threshold: 3
+repeatability: 0.4792597781669947
+localization error: 1.060205954017934
+Homography estimation: 
+Homography threshold: [1, 3, 5, 10, 20, 50]
+Average correctness: [0.36034483 0.66551724 0.72931034 0.78448276 0.83448276 0.88103448]
+nn mean AP: 0.7501796373170297
+matching score: 0.3764211742789315
+====== details =====
+file: 0.npz; rep: 0.18253968253968253; correct: [False False False  True  True  True]; mscore: 0.09961685823754789:, mean AP: 0.43478674200036427
+file: 1.npz; rep: 0.23344947735191637; correct: [False False  True  True  True  True]; mscore: 0.19494584837545126:, mean AP: 0.4994063619729958
+file: 2.npz; rep: 0.184; correct: [False False False False False False]; mscore: 0.04743083003952569:, mean AP: 0.15440781440781443
+file: 3.npz; rep: 0.1781818181818182; correct: [False False False  True  True  True]; mscore: 0.16730038022813687:, mean AP: 0.42929149034314923
+file: 4.npz; rep: 0.128; correct: [False False False False False False]; mscore: 0.04081632653061224:, mean AP: 0.26153846153846155
+file: 5.npz; rep: 0.3974358974358974; correct: [False  True  True  True  True  True]; mscore: 0.3878787878787879:, mean AP: 0.5105437254025592
+file: 6.npz; rep: 0.1802030456852792; correct: [False False False  True  True  True]; mscore: 0.11176470588235295:, mean AP: 0.3486905109001883
+file: 7.npz; rep: 0.39466666666666667; correct: [False  True  True  True  True  True]; mscore: 0.40615384615384614:, mean AP: 0.6673821490726954
+file: 8.npz; rep: 0.26785714285714285; correct: [False  True  True  True  True  True]; mscore: 0.22018348623853212:, mean AP: 0.45882061009404745
+file: 9.npz; rep: 0.34594594594594597; correct: [False  True  True  True  True  True]; mscore: 0.2747603833865815:, mean AP: 0.4180929595179861
+file: 10.npz; rep: 0.625; correct: [ True  True  True  True  True  True]; mscore: 0.5764705882352941:, mean AP: 0.9644117545689735
+file: 11.npz; rep: 0.5247524752475248; correct: [False  True  True  True  True  True]; mscore: 0.28888888888888886:, mean AP: 0.8368950876666048
+file: 12.npz; rep: 0.6476683937823834; correct: [False  True  True  True  True  True]; mscore: 0.6511627906976745:, mean AP: 0.9751251349229189
+file: 13.npz; rep: 0.6648351648351648; correct: [ True  True  True  True  True  True]; mscore: 0.6455696202531646:, mean AP: 0.844126237276968
+file: 14.npz; rep: 0.6703296703296703; correct: [False  True  True  True  True  True]; mscore: 0.7341772151898734:, mean AP: 0.7686280471218752
+file: 15.npz; rep: 0.6476683937823834; correct: [ True  True  True  True  True  True]; mscore: 0.7100591715976331:, mean AP: 0.9661422148756817
+file: 16.npz; rep: 0.671875; correct: [ True  True  True  True  True  True]; mscore: 0.6993865030674846:, mean AP: 0.9433440013780797
+file: 17.npz; rep: 0.673469387755102; correct: [ True  True  True  True  True  True]; mscore: 0.7439024390243902:, mean AP: 0.9798488961731201
+file: 18.npz; rep: 0.6737967914438503; correct: [ True  True  True  True  True  True]; mscore: 0.6918238993710691:, mean AP: 0.8284802788817229
+file: 19.npz; rep: 0.39408866995073893; correct: [False False  True  True  True  True]; mscore: 0.3391812865497076:, mean AP: 0.8908006384571324
+file: 20.npz; rep: 0.6597014925373135; correct: [ True  True  True  True  True  True]; mscore: 0.6006600660066007:, mean AP: 0.9096197784469785
+file: 21.npz; rep: 0.5825242718446602; correct: [ True  True  True  True  True  True]; mscore: 0.5539568345323741:, mean AP: 0.9358035687736679
+file: 22.npz; rep: 0.5954692556634305; correct: [ True  True  True  True  True  True]; mscore: 0.6227106227106227:, mean AP: 0.9053600664508276
+file: 23.npz; rep: 0.4633431085043988; correct: [ True  True  True  True  True  True]; mscore: 0.09621993127147767:, mean AP: 0.40915631540554503
+file: 24.npz; rep: 0.39762611275964393; correct: [False  True  True  True  True  True]; mscore: 0.1388888888888889:, mean AP: 0.6247012247012248
+file: 25.npz; rep: 0.555; correct: [False  True  True  True  True  True]; mscore: 0.41711229946524064:, mean AP: 0.7957735706600669
+file: 26.npz; rep: 0.5028571428571429; correct: [False  True  True  True  True  True]; mscore: 0.3522012578616352:, mean AP: 0.8663570139418045
+file: 27.npz; rep: 0.5656565656565656; correct: [ True  True  True  True  True  True]; mscore: 0.4:, mean AP: 0.8601571819540255
+file: 28.npz; rep: 0.5027027027027027; correct: [False  True  True  True  True  True]; mscore: 0.23157894736842105:, mean AP: 0.7731100044398519
+file: 29.npz; rep: 0.40625; correct: [False False False False False False]; mscore: 0.07272727272727272:, mean AP: 0.2592982456140351
+file: 30.npz; rep: 0.46218487394957986; correct: [False False False False  True  True]; mscore: 0.3063063063063063:, mean AP: 0.947487725409552
+file: 31.npz; rep: 0.3140495867768595; correct: [False False False False  True  True]; mscore: 0.14705882352941177:, mean AP: 0.7599142472594484
+file: 32.npz; rep: 0.15503875968992248; correct: [False False False False False False]; mscore: 0.109375:, mean AP: 0.7291666666666666
+file: 33.npz; rep: 0.47058823529411764; correct: [False False False  True  True  True]; mscore: 0.2727272727272727:, mean AP: 0.7102237824954545
+file: 34.npz; rep: 0.31746031746031744; correct: [False False False False False False]; mscore: 0.16793893129770993:, mean AP: 0.7611953242835595
+file: 35.npz; rep: 0.39552238805970147; correct: [ True  True  True  True  True  True]; mscore: 0.2450592885375494:, mean AP: 0.7331160316590457
+file: 36.npz; rep: 0.4024024024024024; correct: [False  True  True  True  True  True]; mscore: 0.2334384858044164:, mean AP: 0.5370106323797804
+file: 37.npz; rep: 0.3103448275862069; correct: [False False  True  True  True  True]; mscore: 0.11564625850340136:, mean AP: 0.4951203195011245
+file: 38.npz; rep: 0.4475920679886686; correct: [False  True  True  True  True  True]; mscore: 0.22740524781341107:, mean AP: 0.5349984958887474
+file: 39.npz; rep: 0.38943894389438943; correct: [False  True  True  True  True  True]; mscore: 0.1522491349480969:, mean AP: 0.4826927835084232
+file: 40.npz; rep: 0.7582938388625592; correct: [ True  True  True  True  True  True]; mscore: 0.7301587301587301:, mean AP: 0.963393309727399
+file: 41.npz; rep: 0.6171428571428571; correct: [False  True  True  True  True  True]; mscore: 0.5419354838709678:, mean AP: 0.7948071423463652
+file: 42.npz; rep: 0.5656108597285068; correct: [False False  True  True  True  True]; mscore: 0.455026455026455:, mean AP: 0.6107833299523312
+file: 43.npz; rep: 0.6456310679611651; correct: [False  True  True  True  True  True]; mscore: 0.4444444444444444:, mean AP: 0.8637410303100819
+file: 44.npz; rep: 0.47715736040609136; correct: [False False  True  True  True  True]; mscore: 0.36649214659685864:, mean AP: 0.8262169001656171
+file: 45.npz; rep: 0.3746130030959752; correct: [False False False False  True  True]; mscore: 0.12316715542521994:, mean AP: 0.38576042703877683
+file: 46.npz; rep: 0.20710059171597633; correct: [False False False False False False]; mscore: 0.05357142857142857:, mean AP: 0.11030281822964749
+file: 47.npz; rep: 0.15384615384615385; correct: [False False False False False False]; mscore: 0.04048582995951417:, mean AP: 0.09231045790367824
+file: 48.npz; rep: 0.1638655462184874; correct: [False False False False False False]; mscore: 0.04897959183673469:, mean AP: 0.11661634706922344
+file: 49.npz; rep: 0.09090909090909091; correct: [False False False False False False]; mscore: 0.05405405405405406:, mean AP: 0.11494923205449521
+file: 50.npz; rep: 0.6604477611940298; correct: [False  True  True  True  True  True]; mscore: 0.5223880597014925:, mean AP: 0.9637525539088769
+file: 51.npz; rep: 0.6666666666666666; correct: [False  True  True  True  True  True]; mscore: 0.6568265682656826:, mean AP: 0.9844733656558838
+file: 52.npz; rep: 0.5425867507886435; correct: [False  True  True  True  True  True]; mscore: 0.4788732394366197:, mean AP: 0.9248526282210656
+file: 53.npz; rep: 0.515748031496063; correct: [False  True  True  True  True  True]; mscore: 0.31620553359683795:, mean AP: 0.9008650462547166
+file: 54.npz; rep: 0.3631578947368421; correct: [False False  True  True  True  True]; mscore: 0.19895287958115182:, mean AP: 0.955644626271561
+file: 55.npz; rep: 0.7412587412587412; correct: [ True  True  True  True  True  True]; mscore: 0.7401574803149606:, mean AP: 0.9741828797757269
+file: 56.npz; rep: 0.49624060150375937; correct: [ True  True  True  True  True  True]; mscore: 0.3770491803278688:, mean AP: 0.8997865834556777
+file: 57.npz; rep: 0.5230769230769231; correct: [ True  True  True  True  True  True]; mscore: 0.4166666666666667:, mean AP: 0.8887023411832016
+file: 58.npz; rep: 0.5909090909090909; correct: [ True  True  True  True  True  True]; mscore: 0.512396694214876:, mean AP: 0.8770457849643024
+file: 59.npz; rep: 0.5671641791044776; correct: [ True  True  True  True  True  True]; mscore: 0.5454545454545454:, mean AP: 0.9064161740603431
+file: 60.npz; rep: 0.6594594594594595; correct: [False  True  True  True  True  True]; mscore: 0.4411764705882353:, mean AP: 0.8139314610053001
+file: 61.npz; rep: 0.6108108108108108; correct: [False  True  True  True  True  True]; mscore: 0.4264705882352941:, mean AP: 0.6534979988281298
+file: 62.npz; rep: 0.5345911949685535; correct: [False  True  True  True  True  True]; mscore: 0.24675324675324675:, mean AP: 0.6938808977219438
+file: 63.npz; rep: 0.45588235294117646; correct: [False False  True  True  True  True]; mscore: 0.1103448275862069:, mean AP: 0.8207542457542458
+file: 64.npz; rep: 0.6331658291457286; correct: [False  True  True  True  True  True]; mscore: 0.14689265536723164:, mean AP: 0.36925554064098953
+file: 65.npz; rep: 0.9328358208955224; correct: [ True  True  True  True  True  True]; mscore: 1.0933333333333333:, mean AP: 1.0
+file: 66.npz; rep: 0.8619246861924686; correct: [ True  True  True  True  True  True]; mscore: 0.966824644549763:, mean AP: 0.9537643990639514
+file: 67.npz; rep: 0.7842323651452282; correct: [ True  True  True  True  True  True]; mscore: 0.6540284360189573:, mean AP: 0.9557005382773676
+file: 68.npz; rep: 0.8122448979591836; correct: [ True  True  True  True  True  True]; mscore: 0.827906976744186:, mean AP: 0.9689590319742435
+file: 69.npz; rep: 0.8102766798418972; correct: [ True  True  True  True  True  True]; mscore: 0.7058823529411765:, mean AP: 0.9800335900975401
+file: 70.npz; rep: 0.7050691244239631; correct: [ True  True  True  True  True  True]; mscore: 0.5026178010471204:, mean AP: 0.7827780426075613
+file: 71.npz; rep: 0.5758928571428571; correct: [ True  True  True  True  True  True]; mscore: 0.35978835978835977:, mean AP: 0.7700340559934653
+file: 72.npz; rep: 0.35323383084577115; correct: [False  True  True  True  True  True]; mscore: 0.23121387283236994:, mean AP: 0.8274132048492236
+file: 73.npz; rep: 0.23563218390804597; correct: [False  True  True  True  True  True]; mscore: 0.1282051282051282:, mean AP: 0.677804834054834
+file: 74.npz; rep: 0.23529411764705882; correct: [ True  True  True  True  True  True]; mscore: 0.1437908496732026:, mean AP: 0.6335137085137086
+file: 75.npz; rep: 0.39183673469387753; correct: [False False False False  True  True]; mscore: 0.1:, mean AP: 0.280388596910336
+file: 76.npz; rep: 0.3888888888888889; correct: [False  True  True  True  True  True]; mscore: 0.2601626016260163:, mean AP: 0.746669537217524
+file: 77.npz; rep: 0.23222748815165878; correct: [False False False False  True  True]; mscore: 0.07106598984771574:, mean AP: 0.6333333333333333
+file: 78.npz; rep: 0.35986159169550175; correct: [False  True  True  True  True  True]; mscore: 0.17647058823529413:, mean AP: 0.5493373087074119
+file: 79.npz; rep: 0.31004366812227074; correct: [False False False  True  True  True]; mscore: 0.1016949152542373:, mean AP: 0.5557006227849901
+file: 80.npz; rep: 0.6352941176470588; correct: [ True  True  True  True  True  True]; mscore: 0.663594470046083:, mean AP: 0.9375306309450995
+file: 81.npz; rep: 0.6111111111111112; correct: [ True  True  True  True  True  True]; mscore: 0.6422018348623854:, mean AP: 0.9802881024616266
+file: 82.npz; rep: 0.582995951417004; correct: [ True  True  True  True  True  True]; mscore: 0.647887323943662:, mean AP: 0.9861179499220093
+file: 83.npz; rep: 0.5811965811965812; correct: [ True  True  True  True  True  True]; mscore: 0.5631067961165048:, mean AP: 0.9524372726227829
+file: 84.npz; rep: 0.5344827586206896; correct: [ True  True  True  True  True  True]; mscore: 0.5174129353233831:, mean AP: 0.9789426844241539
+file: 85.npz; rep: 0.75; correct: [ True  True  True  True  True  True]; mscore: 0.8133333333333334:, mean AP: 0.9983222418726326
+file: 86.npz; rep: 0.546875; correct: [False  True  True  True  True  True]; mscore: 0.578397212543554:, mean AP: 0.9015266734061723
+file: 87.npz; rep: 0.45806451612903226; correct: [ True  True  True  True  True  True]; mscore: 0.2775800711743772:, mean AP: 0.7974052608036228
+file: 88.npz; rep: 0.6765799256505576; correct: [ True  True  True  True  True  True]; mscore: 0.6190476190476191:, mean AP: 0.850138085171446
+file: 89.npz; rep: 0.5522875816993464; correct: [ True  True  True  True  True  True]; mscore: 0.4785714285714286:, mean AP: 0.7901250730555014
+file: 90.npz; rep: 0.8165137614678899; correct: [ True  True  True  True  True  True]; mscore: 0.900523560209424:, mean AP: 0.9951086652393857
+file: 91.npz; rep: 0.6794258373205742; correct: [ True  True  True  True  True  True]; mscore: 0.7027027027027027:, mean AP: 0.9288751833962049
+file: 92.npz; rep: 0.5756097560975609; correct: [ True  True  True  True  True  True]; mscore: 0.5977011494252874:, mean AP: 0.8738022287878349
+file: 93.npz; rep: 0.41530054644808745; correct: [ True  True  True  True  True  True]; mscore: 0.3821656050955414:, mean AP: 0.9674702017162631
+file: 94.npz; rep: 0.580952380952381; correct: [ True  True  True  True  True  True]; mscore: 0.4371584699453552:, mean AP: 0.5853421822396813
+file: 95.npz; rep: 0.686046511627907; correct: [ True  True  True  True  True  True]; mscore: 0.7296137339055794:, mean AP: 0.9607675055184723
+file: 96.npz; rep: 0.6793893129770993; correct: [ True  True  True  True  True  True]; mscore: 0.759825327510917:, mean AP: 0.9972221552490934
+file: 97.npz; rep: 0.5891472868217055; correct: [ True  True  True  True  True  True]; mscore: 0.5702127659574469:, mean AP: 0.8680837893873883
+file: 98.npz; rep: 0.6135458167330677; correct: [ True  True  True  True  True  True]; mscore: 0.6160714285714286:, mean AP: 0.9219301993748268
+file: 99.npz; rep: 0.42152466367713004; correct: [False False False  True  True  True]; mscore: 0.3791469194312796:, mean AP: 0.8966923694875311
+file: 100.npz; rep: 0.7258883248730964; correct: [ True  True  True  True  True  True]; mscore: 0.4393063583815029:, mean AP: 0.8488397589010241
+file: 101.npz; rep: 0.6521739130434783; correct: [False  True  True  True  True  True]; mscore: 0.4769874476987448:, mean AP: 0.9183176954205234
+file: 102.npz; rep: 0.5124378109452736; correct: [False False False False False  True]; mscore: 0.09782608695652174:, mean AP: 0.738848188848189
+file: 103.npz; rep: 0.546448087431694; correct: [False  True  True  True  True  True]; mscore: 0.11627906976744186:, mean AP: 0.20080480762808955
+file: 104.npz; rep: 0.48148148148148145; correct: [False False False False False False]; mscore: 0.08053691275167785:, mean AP: 0.344093567251462
+file: 105.npz; rep: 0.6381322957198443; correct: [ True  True  True  True  True  True]; mscore: 0.6126126126126126:, mean AP: 0.9713665325277279
+file: 106.npz; rep: 0.6744186046511628; correct: [ True  True  True  True  True  True]; mscore: 0.6695652173913044:, mean AP: 0.9860840920325675
+file: 107.npz; rep: 0.5813953488372093; correct: [ True  True  True  True  True  True]; mscore: 0.6098654708520179:, mean AP: 0.9665219106155462
+file: 108.npz; rep: 0.5822784810126582; correct: [ True  True  True  True  True  True]; mscore: 0.5529953917050692:, mean AP: 0.9803988557088844
+file: 109.npz; rep: 0.5421245421245421; correct: [ True  True  True  True  True  True]; mscore: 0.45569620253164556:, mean AP: 0.9026672873457816
+file: 110.npz; rep: 0.49056603773584906; correct: [ True  True  True  True  True  True]; mscore: 0.38493723849372385:, mean AP: 0.9953422379167706
+file: 111.npz; rep: 0.5063829787234042; correct: [False  True  True  True  True  True]; mscore: 0.2846153846153846:, mean AP: 0.8952711724926055
+file: 112.npz; rep: 0.6467889908256881; correct: [False  True  True  True  True  True]; mscore: 0.41509433962264153:, mean AP: 0.8926316562137787
+file: 113.npz; rep: 0.4329501915708812; correct: [False  True  True  True  True  True]; mscore: 0.3424124513618677:, mean AP: 0.8449448189406515
+file: 114.npz; rep: 0.46757679180887374; correct: [False  True  True  True  True  True]; mscore: 0.32653061224489793:, mean AP: 0.8478577918332089
+file: 115.npz; rep: 0.6; correct: [ True  True  True  True  True  True]; mscore: 0.5753424657534246:, mean AP: 0.8845850918359244
+file: 116.npz; rep: 0.6436781609195402; correct: [ True  True  True  True  True  True]; mscore: 0.7074829931972789:, mean AP: 0.9616906463016873
+file: 117.npz; rep: 0.39325842696629215; correct: [False False  True  True  True  True]; mscore: 0.358974358974359:, mean AP: 0.8796760146454425
+file: 118.npz; rep: 0.4327485380116959; correct: [False  True  True  True  True  True]; mscore: 0.3611111111111111:, mean AP: 0.9502278530660435
+file: 119.npz; rep: 0.6130952380952381; correct: [False  True  True  True  True  True]; mscore: 0.5899280575539568:, mean AP: 0.9739371370015069
+file: 120.npz; rep: 0.6183574879227053; correct: [ True  True  True  True  True  True]; mscore: 0.7195121951219512:, mean AP: 0.9566730080985647
+file: 121.npz; rep: 0.7772020725388601; correct: [ True  True  True  True  True  True]; mscore: 0.9308176100628931:, mean AP: 0.9912372932804813
+file: 122.npz; rep: 0.774869109947644; correct: [ True  True  True  True  True  True]; mscore: 0.8819875776397516:, mean AP: 0.9831457949999494
+file: 123.npz; rep: 0.6037735849056604; correct: [ True  True  True  True  True  True]; mscore: 0.6896551724137931:, mean AP: 0.959301450542192
+file: 124.npz; rep: 0.6604651162790698; correct: [ True  True  True  True  True  True]; mscore: 0.6666666666666666:, mean AP: 0.9721026889728672
+file: 125.npz; rep: 0.6495726495726496; correct: [ True  True  True  True  True  True]; mscore: 0.72:, mean AP: 0.9975496865412832
+file: 126.npz; rep: 0.6486486486486487; correct: [ True  True  True  True  True  True]; mscore: 0.7021276595744681:, mean AP: 0.9659496307804775
+file: 127.npz; rep: 0.3592814371257485; correct: [False  True  True  True  True  True]; mscore: 0.3076923076923077:, mean AP: 0.7660779029096882
+file: 128.npz; rep: 0.33766233766233766; correct: [False  True  True  True  True  True]; mscore: 0.23622047244094488:, mean AP: 0.8912647997275325
+file: 129.npz; rep: 0.6346153846153846; correct: [ True  True  True  True  True  True]; mscore: 0.7209302325581395:, mean AP: 0.9909433024606258
+file: 130.npz; rep: 0.616822429906542; correct: [False  True  True  True  True  True]; mscore: 0.3137254901960784:, mean AP: 0.7470378316671918
+file: 131.npz; rep: 0.6728971962616822; correct: [False  True  True  True  True  True]; mscore: 0.541871921182266:, mean AP: 0.9155380865506675
+file: 132.npz; rep: 0.7129629629629629; correct: [ True  True  True  True  True  True]; mscore: 0.5024630541871922:, mean AP: 0.9525658926506357
+file: 133.npz; rep: 0.7816091954022989; correct: [ True  True  True  True  True  True]; mscore: 0.7777777777777778:, mean AP: 0.9992440151090305
+file: 134.npz; rep: 0.5789473684210527; correct: [False  True  True  True  True  True]; mscore: 0.21782178217821782:, mean AP: 0.7693652564628919
+file: 135.npz; rep: 0.6534653465346535; correct: [ True  True  True  True  True  True]; mscore: 0.6107784431137725:, mean AP: 0.872309061402232
+file: 136.npz; rep: 0.6445783132530121; correct: [ True  True  True  True  True  True]; mscore: 0.37988826815642457:, mean AP: 0.9601726039757098
+file: 137.npz; rep: 0.601063829787234; correct: [False False False  True  True  True]; mscore: 0.20454545454545456:, mean AP: 0.7923782513925972
+file: 138.npz; rep: 0.4658385093167702; correct: [False  True  True  True  True  True]; mscore: 0.38271604938271603:, mean AP: 0.8381842972688528
+file: 139.npz; rep: 0.5214285714285715; correct: [False False  True  True  True  True]; mscore: 0.145985401459854:, mean AP: 0.41518492135883445
+file: 140.npz; rep: 0.5446428571428571; correct: [False  True  True  True  True  True]; mscore: 0.3684210526315789:, mean AP: 0.8069941898773025
+file: 141.npz; rep: 0.47706422018348627; correct: [False False False False  True  True]; mscore: 0.22131147540983606:, mean AP: 0.8008840760029222
+file: 142.npz; rep: 0.43902439024390244; correct: [False  True  True  True  True  True]; mscore: 0.232:, mean AP: 0.46730861838495374
+file: 143.npz; rep: 0.5190839694656488; correct: [False False  True  True  True  True]; mscore: 0.3543307086614173:, mean AP: 0.47848160293718045
+file: 144.npz; rep: 0.3574144486692015; correct: [False False  True  True  True  True]; mscore: 0.18803418803418803:, mean AP: 0.3571872606560567
+file: 145.npz; rep: 0.11870503597122302; correct: [False False False False False  True]; mscore: 0.5017667844522968:, mean AP: 0.8942184424165414
+file: 146.npz; rep: 0.031914893617021274; correct: [False False False False False False]; mscore: 0.06698564593301436:, mean AP: 0.44318303811057436
+file: 147.npz; rep: 0.055776892430278883; correct: [False False False False False False]; mscore: 0.24749163879598662:, mean AP: 0.685272846345496
+file: 148.npz; rep: 0.09163346613545817; correct: [False False False False False False]; mscore: 0.1700404858299595:, mean AP: 0.5653615809149863
+file: 149.npz; rep: 0.09900990099009901; correct: [False False False False False False]; mscore: 0.06422018348623854:, mean AP: 0.5909649873935587
+file: 150.npz; rep: 0.580327868852459; correct: [False  True  True  True  True  True]; mscore: 0.5278810408921933:, mean AP: 0.9175115705613917
+file: 151.npz; rep: 0.4864864864864865; correct: [ True  True  True  True  True  True]; mscore: 0.4188034188034188:, mean AP: 0.8596418470268562
+file: 152.npz; rep: 0.4067796610169492; correct: [False  True  True  True  True  True]; mscore: 0.18779342723004694:, mean AP: 0.8258050182568961
+file: 153.npz; rep: 0.375; correct: [False False False  True  True  True]; mscore: 0.1297709923664122:, mean AP: 0.8965743624567154
+file: 154.npz; rep: 0.3383838383838384; correct: [False False False False False False]; mscore: 0.056074766355140186:, mean AP: 0.4826135582438103
+file: 155.npz; rep: 0.4858757062146893; correct: [ True  True  True  True  True  True]; mscore: 0.4675324675324675:, mean AP: 0.9831613543466706
+file: 156.npz; rep: 0.3699421965317919; correct: [ True  True  True  True  True  True]; mscore: 0.3333333333333333:, mean AP: 0.8468343982596296
+file: 157.npz; rep: 0.35502958579881655; correct: [ True  True  True  True  True  True]; mscore: 0.2857142857142857:, mean AP: 0.8971178968663489
+file: 158.npz; rep: 0.313953488372093; correct: [False  True  True  True  True  True]; mscore: 0.2446043165467626:, mean AP: 0.8337464387464387
+file: 159.npz; rep: 0.3125; correct: [False  True  True  True  True  True]; mscore: 0.20588235294117646:, mean AP: 0.5743876521002621
+file: 160.npz; rep: 0.5795454545454546; correct: [False  True  True  True  True  True]; mscore: 0.5806451612903226:, mean AP: 0.957522619567984
+file: 161.npz; rep: 0.46994535519125685; correct: [ True  True  True  True  True  True]; mscore: 0.43209876543209874:, mean AP: 0.7993974294604991
+file: 162.npz; rep: 0.43783783783783786; correct: [ True  True  True  True  True  True]; mscore: 0.4146341463414634:, mean AP: 0.7825009984966014
+file: 163.npz; rep: 0.3431372549019608; correct: [False  True  True  True  True  True]; mscore: 0.25287356321839083:, mean AP: 0.8422212143524109
+file: 164.npz; rep: 0.3181818181818182; correct: [False  True  True  True  True  True]; mscore: 0.14942528735632185:, mean AP: 0.5948215297566743
+file: 165.npz; rep: 0.5454545454545454; correct: [False  True  True  True  True  True]; mscore: 0.4:, mean AP: 0.7181003580023442
+file: 166.npz; rep: 0.564; correct: [False  True  True  True  True  True]; mscore: 0.2698412698412698:, mean AP: 0.5347934599916053
+file: 167.npz; rep: 0.5044642857142857; correct: [False False False  True  True  True]; mscore: 0.18421052631578946:, mean AP: 0.7624639092895833
+file: 168.npz; rep: 0.3473684210526316; correct: [False False False False False False]; mscore: 0.04716981132075472:, mean AP: 0.10338793338793338
+file: 169.npz; rep: 0.28350515463917525; correct: [False False False False False False]; mscore: 0.052083333333333336:, mean AP: 0.14286868003906544
+file: 170.npz; rep: 0.594306049822064; correct: [False  True  True  True  True  True]; mscore: 0.5581395348837209:, mean AP: 0.9082283567633271
+file: 171.npz; rep: 0.592156862745098; correct: [False False  True  True  True  True]; mscore: 0.3969465648854962:, mean AP: 0.7372220270245301
+file: 172.npz; rep: 0.43; correct: [False  True  True  True  True  True]; mscore: 0.21794871794871795:, mean AP: 0.7494791069022371
+file: 173.npz; rep: 0.41700404858299595; correct: [False False False False  True  True]; mscore: 0.13688212927756654:, mean AP: 0.6098549016380745
+file: 174.npz; rep: 0.31759656652360513; correct: [False False False  True  True  True]; mscore: 0.07905138339920949:, mean AP: 0.5799284255673709
+file: 175.npz; rep: 0.516728624535316; correct: [False  True  True  True  True  True]; mscore: 0.45689655172413796:, mean AP: 0.8673072074515029
+file: 176.npz; rep: 0.4112903225806452; correct: [False  True  True  True  True  True]; mscore: 0.28846153846153844:, mean AP: 0.8175460188646494
+file: 177.npz; rep: 0.41796875; correct: [ True  True  True  True  True  True]; mscore: 0.25688073394495414:, mean AP: 0.8331561835136249
+file: 178.npz; rep: 0.25380710659898476; correct: [False  True  True  True  True  True]; mscore: 0.1005586592178771:, mean AP: 0.40053200767486485
+file: 179.npz; rep: 0.30303030303030304; correct: [False False False False False  True]; mscore: 0.1005586592178771:, mean AP: 0.40370104772678306
+file: 180.npz; rep: 0.7307692307692307; correct: [ True  True  True  True  True  True]; mscore: 0.7861271676300579:, mean AP: 0.8629138305154349
+file: 181.npz; rep: 0.6161616161616161; correct: [False  True  True  True  True  True]; mscore: 0.6625766871165644:, mean AP: 0.8930327149091861
+file: 182.npz; rep: 0.3384615384615385; correct: [False False  True  True  True  True]; mscore: 0.2958579881656805:, mean AP: 0.6785890561181988
+file: 183.npz; rep: 0.5671641791044776; correct: [ True  True  True  True  True  True]; mscore: 0.5301204819277109:, mean AP: 0.7080364972609516
+file: 184.npz; rep: 0.5245098039215687; correct: [ True  True  True  True  True  True]; mscore: 0.5325443786982249:, mean AP: 0.8226661795020844
+file: 185.npz; rep: 0.7439613526570048; correct: [ True  True  True  True  True  True]; mscore: 0.8208092485549133:, mean AP: 0.9959511252678606
+file: 186.npz; rep: 0.3445378151260504; correct: [False  True  True  True  True  True]; mscore: 0.182648401826484:, mean AP: 0.9046552522610875
+file: 187.npz; rep: 0.34959349593495936; correct: [ True  True  True  True  True  True]; mscore: 0.16:, mean AP: 0.9062341683084716
+file: 188.npz; rep: 0.33191489361702126; correct: [ True  True  True  True  True  True]; mscore: 0.18518518518518517:, mean AP: 0.9165611736045169
+file: 189.npz; rep: 0.44534412955465585; correct: [ True  True  True  True  True  True]; mscore: 0.32432432432432434:, mean AP: 0.9237878349057517
+file: 190.npz; rep: 0.6917562724014337; correct: [ True  True  True  True  True  True]; mscore: 0.6335877862595419:, mean AP: 0.9584742849915875
+file: 191.npz; rep: 0.5359477124183006; correct: [False  True  True  True  True  True]; mscore: 0.37333333333333335:, mean AP: 0.8772908574708334
+file: 192.npz; rep: 0.4618320610687023; correct: [ True  True  True  True  True  True]; mscore: 0.2491103202846975:, mean AP: 0.8464506951127926
+file: 193.npz; rep: 0.5071090047393365; correct: [False False  True  True  True  True]; mscore: 0.2242152466367713:, mean AP: 0.8563797982705303
+file: 194.npz; rep: 0.42857142857142855; correct: [False False False False  True  True]; mscore: 0.1827956989247312:, mean AP: 0.5219975793786027
+file: 195.npz; rep: 0.6724137931034483; correct: [ True  True  True  True  True  True]; mscore: 0.6213592233009708:, mean AP: 0.9884971424364777
+file: 196.npz; rep: 0.756198347107438; correct: [ True  True  True  True  True  True]; mscore: 0.8333333333333334:, mean AP: 0.9831116162831492
+file: 197.npz; rep: 0.7258687258687259; correct: [ True  True  True  True  True  True]; mscore: 0.7947598253275109:, mean AP: 0.9831465494556069
+file: 198.npz; rep: 0.7529411764705882; correct: [ True  True  True  True  True  True]; mscore: 0.801762114537445:, mean AP: 0.987283747329077
+file: 199.npz; rep: 0.7436974789915967; correct: [ True  True  True  True  True  True]; mscore: 0.7230046948356808:, mean AP: 0.9863480923661327
+file: 200.npz; rep: 0.3473053892215569; correct: [False False False  True  True  True]; mscore: 0.3188405797101449:, mean AP: 0.9521844383686491
+file: 201.npz; rep: 0.4277456647398844; correct: [False  True  True  True  True  True]; mscore: 0.40789473684210525:, mean AP: 0.9143538763566095
+file: 202.npz; rep: 0.43902439024390244; correct: [False False  True  True  True  True]; mscore: 0.39705882352941174:, mean AP: 0.9098686924530579
+file: 203.npz; rep: 0.37433155080213903; correct: [False  True  True  True  True  True]; mscore: 0.3670886075949367:, mean AP: 0.8335437147876766
+file: 204.npz; rep: 0.39344262295081966; correct: [False False  True  True  True  True]; mscore: 0.36942675159235666:, mean AP: 0.7630918392942899
+file: 205.npz; rep: 0.588495575221239; correct: [ True  True  True  True  True  True]; mscore: 0.4878048780487805:, mean AP: 0.9309204254528408
+file: 206.npz; rep: 0.5925925925925926; correct: [False  True  True  True  True  True]; mscore: 0.35294117647058826:, mean AP: 0.7159871641651987
+file: 207.npz; rep: 0.4690721649484536; correct: [False  True  True  True  True  True]; mscore: 0.2222222222222222:, mean AP: 0.8728413665512478
+file: 208.npz; rep: 0.5288888888888889; correct: [ True  True  True  True  True  True]; mscore: 0.3333333333333333:, mean AP: 0.7651869126147168
+file: 209.npz; rep: 0.4166666666666667; correct: [False False False False  True  True]; mscore: 0.16033755274261605:, mean AP: 0.7389368042523192
+file: 210.npz; rep: 0.3671875; correct: [False  True  True  True  True  True]; mscore: 0.2597402597402597:, mean AP: 0.7907747176141929
+file: 211.npz; rep: 0.4797047970479705; correct: [ True  True  True  True  True  True]; mscore: 0.3524590163934426:, mean AP: 0.6999646257831925
+file: 212.npz; rep: 0.42857142857142855; correct: [ True  True  True  True  True  True]; mscore: 0.2510460251046025:, mean AP: 0.5473196256454255
+file: 213.npz; rep: 0.5559701492537313; correct: [ True  True  True  True  True  True]; mscore: 0.5063291139240507:, mean AP: 0.9704002512480311
+file: 214.npz; rep: 0.4856115107913669; correct: [False  True  True  True  True  True]; mscore: 0.3552123552123552:, mean AP: 0.8661805326626743
+file: 215.npz; rep: 0.6308724832214765; correct: [ True  True  True  True  True  True]; mscore: 0.7181467181467182:, mean AP: 0.9931507097109261
+file: 216.npz; rep: 0.6072607260726073; correct: [ True  True  True  True  True  True]; mscore: 0.6515151515151515:, mean AP: 0.9473131509544461
+file: 217.npz; rep: 0.5741935483870968; correct: [ True  True  True  True  True  True]; mscore: 0.5955882352941176:, mean AP: 0.8813369137339034
+file: 218.npz; rep: 0.5703971119133574; correct: [False  True  True  True  True  True]; mscore: 0.5185185185185185:, mean AP: 0.9454194233516353
+file: 219.npz; rep: 0.6411149825783972; correct: [ True  True  True  True  True  True]; mscore: 0.616600790513834:, mean AP: 0.8627202170632848
+file: 220.npz; rep: 0.7681660899653979; correct: [ True  True  True  True  True  True]; mscore: 0.8384615384615385:, mean AP: 0.9977711569841039
+file: 221.npz; rep: 0.6875; correct: [ True  True  True  True  True  True]; mscore: 0.6793893129770993:, mean AP: 0.9908095156215044
+file: 222.npz; rep: 0.4666666666666667; correct: [False  True  True  True  True  True]; mscore: 0.38497652582159625:, mean AP: 0.9703241234018074
+file: 223.npz; rep: 0.3080357142857143; correct: [False  True  True  True  True  True]; mscore: 0.13:, mean AP: 0.7580213402581825
+file: 224.npz; rep: 0.2782608695652174; correct: [False False False False  True  True]; mscore: 0.08780487804878048:, mean AP: 0.31211627926024216
+file: 225.npz; rep: 0.11764705882352941; correct: [False False False False False False]; mscore: 0.06936416184971098:, mean AP: 0.16743589743589746
+file: 226.npz; rep: 0.06172839506172839; correct: [False False False False False False]; mscore: 0.07228915662650602:, mean AP: 0.4478444842692154
+file: 227.npz; rep: 0.11330049261083744; correct: [False False False False  True  True]; mscore: 0.20725388601036268:, mean AP: 0.8164337784951821
+file: 228.npz; rep: 0.08823529411764706; correct: [False False False False  True  True]; mscore: 0.2018348623853211:, mean AP: 0.6888501838669613
+file: 229.npz; rep: 0.05; correct: [False False False False False False]; mscore: 0.06329113924050633:, mean AP: 0.18486180486180487
+file: 230.npz; rep: 0.5415162454873647; correct: [ True  True  True  True  True  True]; mscore: 0.5783132530120482:, mean AP: 0.7967503270030324
+file: 231.npz; rep: 0.45353159851301117; correct: [False  True  True  True  True  True]; mscore: 0.38016528925619836:, mean AP: 0.8165974468837264
+file: 232.npz; rep: 0.298932384341637; correct: [False  True  True  True  True  True]; mscore: 0.3058823529411765:, mean AP: 0.8057835978642254
+file: 233.npz; rep: 0.3595505617977528; correct: [False  True  True  True  True  True]; mscore: 0.2396694214876033:, mean AP: 0.8080221469721511
+file: 234.npz; rep: 0.6972789115646258; correct: [ True  True  True  True  True  True]; mscore: 0.7490636704119851:, mean AP: 0.9421452490120986
+file: 235.npz; rep: 0.6857142857142857; correct: [False  True  True  True  True  True]; mscore: 0.5802469135802469:, mean AP: 0.8181522955125594
+file: 236.npz; rep: 0.50920245398773; correct: [False  True  True  True  True  True]; mscore: 0.208955223880597:, mean AP: 0.43606870996404734
+file: 237.npz; rep: 0.44805194805194803; correct: [False False False False False False]; mscore: 0.08571428571428572:, mean AP: 0.14517683226123124
+file: 238.npz; rep: 0.4057971014492754; correct: [False False False False False False]; mscore: 0.07692307692307693:, mean AP: 0.24422799422799424
+file: 239.npz; rep: 0.5333333333333333; correct: [False False False False False  True]; mscore: 0.08130081300813008:, mean AP: 0.41397417153996097
+file: 240.npz; rep: 0.8432432432432433; correct: [ True  True  True  True  True  True]; mscore: 0.927710843373494:, mean AP: 0.9561967075229214
+file: 241.npz; rep: 0.7676767676767676; correct: [ True  True  True  True  True  True]; mscore: 0.8786127167630058:, mean AP: 0.9860852663402816
+file: 242.npz; rep: 0.7948717948717948; correct: [ True  True  True  True  True  True]; mscore: 0.8953488372093024:, mean AP: 0.9917222367758624
+file: 243.npz; rep: 0.5270935960591133; correct: [False  True  True  True  True  True]; mscore: 0.4318181818181818:, mean AP: 0.7660269911390173
+file: 244.npz; rep: 0.6217616580310881; correct: [ True  True  True  True  True  True]; mscore: 0.6627218934911243:, mean AP: 0.9296775051578572
+file: 245.npz; rep: 0.5362903225806451; correct: [ True  True  True  True  True  True]; mscore: 0.5185185185185185:, mean AP: 0.9320217422263172
+file: 246.npz; rep: 0.42574257425742573; correct: [False False False False False  True]; mscore: 0.08421052631578947:, mean AP: 0.2456306485911749
+file: 247.npz; rep: 0.355; correct: [False False False False False False]; mscore: 0.06666666666666667:, mean AP: 0.2842948717948718
+file: 248.npz; rep: 0.31351351351351353; correct: [False False False False False False]; mscore: 0.06976744186046512:, mean AP: 0.3343650793650793
+file: 249.npz; rep: 0.16883116883116883; correct: [False False False False False False]; mscore: 0.08053691275167785:, mean AP: 0.45999999999999996
+file: 250.npz; rep: 0.4491803278688525; correct: [False  True  True  True  True  True]; mscore: 0.3880597014925373:, mean AP: 0.8783881542197653
+file: 251.npz; rep: 0.47413793103448276; correct: [False False  True  True  True  True]; mscore: 0.2975206611570248:, mean AP: 0.8380105348017135
+file: 252.npz; rep: 0.3464566929133858; correct: [False  True  True  True  True  True]; mscore: 0.2283464566929134:, mean AP: 0.6736532608762352
+file: 253.npz; rep: 0.366412213740458; correct: [ True  True  True  True  True  True]; mscore: 0.23076923076923078:, mean AP: 0.7375604111112151
+file: 254.npz; rep: 0.4420289855072464; correct: [ True  True  True  True  True  True]; mscore: 0.33201581027667987:, mean AP: 0.7521231892110192
+file: 255.npz; rep: 0.09905660377358491; correct: [False False False False False  True]; mscore: 0.19:, mean AP: 0.7934689552020635
+file: 256.npz; rep: 0.13839285714285715; correct: [False False False False False  True]; mscore: 0.2557077625570776:, mean AP: 0.9509153972460616
+file: 257.npz; rep: 0.11822660098522167; correct: [False False False False False False]; mscore: 0.061855670103092786:, mean AP: 0.3794657097288676
+file: 258.npz; rep: 0.14; correct: [False False False False False  True]; mscore: 0.08530805687203792:, mean AP: 0.5547279880613214
+file: 259.npz; rep: 0.12121212121212122; correct: [False False False False False False]; mscore: 0.06349206349206349:, mean AP: 0.16196257995918437
+file: 260.npz; rep: 0.9263803680981595; correct: [ True  True  True  True  True  True]; mscore: 1.0869565217391304:, mean AP: 0.9814597836543948
+file: 261.npz; rep: 0.9440993788819876; correct: [ True  True  True  True  True  True]; mscore: 1.1094890510948905:, mean AP: 1.0000000000000002
+file: 262.npz; rep: 0.7289156626506024; correct: [ True  True  True  True  True  True]; mscore: 0.7866666666666666:, mean AP: 0.9867102623668915
+file: 263.npz; rep: 0.6347305389221557; correct: [ True  True  True  True  True  True]; mscore: 0.5657894736842105:, mean AP: 0.9915608674618785
+file: 264.npz; rep: 0.5228758169934641; correct: [ True  True  True  True  True  True]; mscore: 0.3111111111111111:, mean AP: 0.8905866277983993
+file: 265.npz; rep: 0.6390243902439025; correct: [ True  True  True  True  True  True]; mscore: 0.6742857142857143:, mean AP: 0.8989362219418616
+file: 266.npz; rep: 0.6025641025641025; correct: [False  True  True  True  True  True]; mscore: 0.5320197044334976:, mean AP: 0.9711213501813669
+file: 267.npz; rep: 0.5982142857142857; correct: [False  True  True  True  True  True]; mscore: 0.5247524752475248:, mean AP: 0.9037612653560774
+file: 268.npz; rep: 0.5454545454545454; correct: [ True  True  True  True  True  True]; mscore: 0.42786069651741293:, mean AP: 0.8051251286776939
+file: 269.npz; rep: 0.5205479452054794; correct: [False  True  True  True  True  True]; mscore: 0.39215686274509803:, mean AP: 0.7914493607822453
+file: 270.npz; rep: 0.8385826771653543; correct: [ True  True  True  True  True  True]; mscore: 0.9196428571428571:, mean AP: 0.9905430380415996
+file: 271.npz; rep: 0.4581673306772908; correct: [ True  True  True  True  True  True]; mscore: 0.5:, mean AP: 0.9490706024914805
+file: 272.npz; rep: 0.5863636363636363; correct: [ True  True  True  True  True  True]; mscore: 0.6:, mean AP: 0.8990231399385744
+file: 273.npz; rep: 0.401673640167364; correct: [False  True  True  True  True  True]; mscore: 0.27230046948356806:, mean AP: 0.6122209737841761
+file: 274.npz; rep: 0.5057915057915058; correct: [ True  True  True  True  True  True]; mscore: 0.3391304347826087:, mean AP: 0.5633249957239026
+file: 275.npz; rep: 0.9166666666666666; correct: [ True  True  True  True  True  True]; mscore: 0.9801980198019802:, mean AP: 0.9975044801359372
+file: 276.npz; rep: 0.8155339805825242; correct: [ True  True  True  True  True  True]; mscore: 0.8556701030927835:, mean AP: 0.9724494049261929
+file: 277.npz; rep: 0.7711442786069652; correct: [ True  True  True  True  True  True]; mscore: 0.7916666666666666:, mean AP: 0.9812603600306307
+file: 278.npz; rep: 0.7424242424242424; correct: [ True  True  True  True  True  True]; mscore: 0.7407407407407407:, mean AP: 0.8465196650482488
+file: 279.npz; rep: 0.675531914893617; correct: [False  True  True  True  True  True]; mscore: 0.5888888888888889:, mean AP: 0.6966980265230809
+file: 280.npz; rep: 0.3698630136986301; correct: [False False False  True  True  True]; mscore: 0.30711610486891383:, mean AP: 0.7545605896447783
+file: 281.npz; rep: 0.24054982817869416; correct: [False  True  True  True  True  True]; mscore: 0.1444866920152091:, mean AP: 0.48862454020759943
+file: 282.npz; rep: 0.20270270270270271; correct: [False False False False  True  True]; mscore: 0.06818181818181818:, mean AP: 0.3969642242862057
+file: 283.npz; rep: 0.25507246376811593; correct: [False False False  True  True  True]; mscore: 0.15483870967741936:, mean AP: 0.8876498797837469
+file: 284.npz; rep: 0.23178807947019867; correct: [False  True  True  True  True  True]; mscore: 0.052434456928838954:, mean AP: 0.5844504830917874
+file: 285.npz; rep: 0.6230769230769231; correct: [ True  True  True  True  True  True]; mscore: 0.7027027027027027:, mean AP: 0.9674410290064169
+file: 286.npz; rep: 0.628; correct: [ True  True  True  True  True  True]; mscore: 0.7102803738317757:, mean AP: 0.9869690533575664
+file: 287.npz; rep: 0.6485355648535565; correct: [False  True  True  True  True  True]; mscore: 0.638095238095238:, mean AP: 0.8082021177302865
+file: 288.npz; rep: 0.6378600823045267; correct: [ True  True  True  True  True  True]; mscore: 0.6824644549763034:, mean AP: 0.8697042741821743
+file: 289.npz; rep: 0.5595238095238095; correct: [ True  True  True  True  True  True]; mscore: 0.5622119815668203:, mean AP: 0.8757112267960379
+file: 290.npz; rep: 0.5099601593625498; correct: [ True  True  True  True  True  True]; mscore: 0.36444444444444446:, mean AP: 0.83211057732863
+file: 291.npz; rep: 0.64; correct: [False  True  True  True  True  True]; mscore: 0.6467065868263473:, mean AP: 0.9748292013185875
+file: 292.npz; rep: 0.44549763033175355; correct: [False  True  True  True  True  True]; mscore: 0.3567567567567568:, mean AP: 0.9190746491423836
+file: 293.npz; rep: 0.673469387755102; correct: [False  True  True  True  True  True]; mscore: 0.7243243243243244:, mean AP: 0.9963745146137565
+file: 294.npz; rep: 0.5335968379446641; correct: [False  True  True  True  True  True]; mscore: 0.4533333333333333:, mean AP: 0.8123572206619404
+file: 295.npz; rep: 0.1078838174273859; correct: [False False False False False  True]; mscore: 0.17937219730941703:, mean AP: 0.7133225924351057
+file: 296.npz; rep: 0.08; correct: [False False False False False  True]; mscore: 0.19383259911894274:, mean AP: 0.7783191431507857
+file: 297.npz; rep: 0.11923076923076924; correct: [False False False False False  True]; mscore: 0.26459143968871596:, mean AP: 0.7576799299859599
+file: 298.npz; rep: 0.1791044776119403; correct: [False False False  True  True  True]; mscore: 0.10033444816053512:, mean AP: 0.6090046311709228
+file: 299.npz; rep: 0.08771929824561403; correct: [False False False False False False]; mscore: 0.04838709677419355:, mean AP: 0.1542857142857143
+file: 300.npz; rep: 0.8597014925373134; correct: [ True  True  True  True  True  True]; mscore: 0.8791946308724832:, mean AP: 0.8774003039031968
+file: 301.npz; rep: 0.6838905775075987; correct: [ True  True  True  True  True  True]; mscore: 0.5782312925170068:, mean AP: 0.7993708925925551
+file: 302.npz; rep: 0.558641975308642; correct: [False  True  True  True  True  True]; mscore: 0.2826855123674912:, mean AP: 0.9156682522057329
+file: 303.npz; rep: 0.39322033898305087; correct: [False  True  True  True  True  True]; mscore: 0.16417910447761194:, mean AP: 0.9119936618047163
+file: 304.npz; rep: 0.6588921282798834; correct: [ True  True  True  True  True  True]; mscore: 0.5589225589225589:, mean AP: 0.8222736137215972
+file: 305.npz; rep: 0.831858407079646; correct: [ True  True  True  True  True  True]; mscore: 0.9740932642487047:, mean AP: 0.9859226269507537
+file: 306.npz; rep: 0.5422535211267606; correct: [False  True  True  True  True  True]; mscore: 0.4897959183673469:, mean AP: 0.9690096190549786
+file: 307.npz; rep: 0.4603174603174603; correct: [False  True  True  True  True  True]; mscore: 0.40186915887850466:, mean AP: 0.7911475816211618
+file: 308.npz; rep: 0.272; correct: [False False False False False  True]; mscore: 0.08181818181818182:, mean AP: 0.25854508279077243
+file: 309.npz; rep: 0.4280821917808219; correct: [False  True  True  True  True  True]; mscore: 0.4392156862745098:, mean AP: 0.8724217560062807
+file: 310.npz; rep: 0.04195804195804196; correct: [False False False False  True  True]; mscore: 0.2184873949579832:, mean AP: 0.834118360848265
+file: 311.npz; rep: 0.04918032786885246; correct: [False False False False  True  True]; mscore: 0.3918918918918919:, mean AP: 0.7845267440293123
+file: 312.npz; rep: 0.04678362573099415; correct: [False False False False  True  True]; mscore: 0.30057803468208094:, mean AP: 0.9655112671321671
+file: 313.npz; rep: 0.10071942446043165; correct: [False False False False  True  True]; mscore: 0.23880597014925373:, mean AP: 0.7980304267455969
+file: 314.npz; rep: 0.041666666666666664; correct: [False False False False  True  True]; mscore: 0.2809917355371901:, mean AP: 0.893543956043956
+file: 315.npz; rep: 0.5714285714285714; correct: [False False False  True  True  True]; mscore: 0.3826086956521739:, mean AP: 0.9745402558272269
+file: 316.npz; rep: 0.6382978723404256; correct: [False False False  True  True  True]; mscore: 0.32098765432098764:, mean AP: 0.9422703775655514
+file: 317.npz; rep: 0.5555555555555556; correct: [False False False False False  True]; mscore: 0.13986013986013987:, mean AP: 0.5781565656565657
+file: 318.npz; rep: 0.6058394160583942; correct: [False False False  True  True  True]; mscore: 0.34355828220858897:, mean AP: 0.6370851343154057
+file: 319.npz; rep: 0.544; correct: [False False False False False False]; mscore: 0.10810810810810811:, mean AP: 0.6230925324675325
+file: 320.npz; rep: 0.7222222222222222; correct: [False  True  True  True  True  True]; mscore: 0.7428571428571429:, mean AP: 0.8426536931477862
+file: 321.npz; rep: 0.6135265700483091; correct: [False  True  True  True  True  True]; mscore: 0.5930232558139535:, mean AP: 0.8435382185162242
+file: 322.npz; rep: 0.7243243243243244; correct: [False  True  True  True  True  True]; mscore: 0.32926829268292684:, mean AP: 0.6493257996674264
+file: 323.npz; rep: 0.6881188118811881; correct: [False  True  True  True  True  True]; mscore: 0.35233160621761656:, mean AP: 0.8758367248026927
+file: 324.npz; rep: 0.6737967914438503; correct: [False  True  True  True  True  True]; mscore: 0.46706586826347307:, mean AP: 0.7776143338689623
+file: 325.npz; rep: 0.7454545454545455; correct: [ True  True  True  True  True  True]; mscore: 0.7263681592039801:, mean AP: 0.9543109332375713
+file: 326.npz; rep: 0.6839622641509434; correct: [ True  True  True  True  True  True]; mscore: 0.5876288659793815:, mean AP: 0.7702107085808775
+file: 327.npz; rep: 0.5776699029126213; correct: [False  True  True  True  True  True]; mscore: 0.40425531914893614:, mean AP: 0.8161262892405569
+file: 328.npz; rep: 0.49214659685863876; correct: [False  True  True  True  True  True]; mscore: 0.3058823529411765:, mean AP: 0.8521154071470984
+file: 329.npz; rep: 0.5346534653465347; correct: [ True  True  True  True  True  True]; mscore: 0.40641711229946526:, mean AP: 0.8176742423817094
+file: 330.npz; rep: 0.65; correct: [ True  True  True  True  True  True]; mscore: 0.5:, mean AP: 0.7194235719417188
+file: 331.npz; rep: 0.6545454545454545; correct: [ True  True  True  True  True  True]; mscore: 0.3302752293577982:, mean AP: 0.8757853580028503
+file: 332.npz; rep: 0.6412213740458015; correct: [ True  True  True  True  True  True]; mscore: 0.3220338983050847:, mean AP: 0.7447053967471702
+file: 333.npz; rep: 0.5952380952380952; correct: [False  True  True  True  True  True]; mscore: 0.3389830508474576:, mean AP: 0.7745908758033009
+file: 334.npz; rep: 0.3333333333333333; correct: [False False False False False False]; mscore: 0.09615384615384616:, mean AP: 0.6071428571428572
+file: 335.npz; rep: 0.45604395604395603; correct: [False False False False False  True]; mscore: 0.1471861471861472:, mean AP: 0.3248395749609473
+file: 336.npz; rep: 0.34328358208955223; correct: [False False False False False False]; mscore: 0.05970149253731343:, mean AP: 0.40753968253968254
+file: 337.npz; rep: 0.37583892617449666; correct: [False False False False False False]; mscore: 0.10309278350515463:, mean AP: 0.5860324675324674
+file: 338.npz; rep: 0.34782608695652173; correct: [False False False False False  True]; mscore: 0.13333333333333333:, mean AP: 0.850709972394755
+file: 339.npz; rep: 0.30303030303030304; correct: [False False False False False False]; mscore: 0.1839080459770115:, mean AP: 0.7835916220531605
+file: 340.npz; rep: 0.680628272251309; correct: [ True  True  True  True  True  True]; mscore: 0.7065868263473054:, mean AP: 0.8323850954235661
+file: 341.npz; rep: 0.7171717171717171; correct: [ True  True  True  True  True  True]; mscore: 0.7674418604651163:, mean AP: 0.9985825128173336
+file: 342.npz; rep: 0.542713567839196; correct: [False  True  True  True  True  True]; mscore: 0.5930232558139535:, mean AP: 0.9870136415498252
+file: 343.npz; rep: 0.5842696629213483; correct: [ True  True  True  True  True  True]; mscore: 0.6455696202531646:, mean AP: 0.9903472504368616
+file: 344.npz; rep: 0.69; correct: [ True  True  True  True  True  True]; mscore: 0.6896551724137931:, mean AP: 0.9380531574866554
+file: 345.npz; rep: 0.3347107438016529; correct: [False False  True  True  True  True]; mscore: 0.24031007751937986:, mean AP: 0.9306190639320259
+file: 346.npz; rep: 0.27555555555555555; correct: [False False  True  True  True  True]; mscore: 0.12598425196850394:, mean AP: 0.8092424589524013
+file: 347.npz; rep: 0.3805970149253731; correct: [False  True  True  True  True  True]; mscore: 0.2846975088967972:, mean AP: 0.7268828041312672
+file: 348.npz; rep: 0.32646048109965636; correct: [False False False False  True  True]; mscore: 0.15162454873646208:, mean AP: 0.6210248536989624
+file: 349.npz; rep: 0.33584905660377357; correct: [False False False False  True  True]; mscore: 0.08602150537634409:, mean AP: 0.5503089104763746
+file: 350.npz; rep: 0.5990566037735849; correct: [ True  True  True  True  True  True]; mscore: 0.48677248677248675:, mean AP: 0.9227814346265151
+file: 351.npz; rep: 0.6651785714285714; correct: [ True  True  True  True  True  True]; mscore: 0.5539906103286385:, mean AP: 0.9426997950483049
+file: 352.npz; rep: 0.5598086124401914; correct: [False False False  True  True  True]; mscore: 0.2311111111111111:, mean AP: 0.8285397590395459
+file: 353.npz; rep: 0.5606060606060606; correct: [ True  True  True  True  True  True]; mscore: 0.35406698564593303:, mean AP: 0.9535919909271343
+file: 354.npz; rep: 0.49514563106796117; correct: [False False False  True  True  True]; mscore: 0.20952380952380953:, mean AP: 0.8288649856676191
+file: 355.npz; rep: 0.7; correct: [ True  True  True  True  True  True]; mscore: 0.8024691358024691:, mean AP: 0.9946390788906689
+file: 356.npz; rep: 0.5854922279792746; correct: [ True  True  True  True  True  True]; mscore: 0.39634146341463417:, mean AP: 0.8825188464117107
+file: 357.npz; rep: 0.5396341463414634; correct: [ True  True  True  True  True  True]; mscore: 0.32413793103448274:, mean AP: 0.8040501052486192
+file: 358.npz; rep: 0.6195652173913043; correct: [ True  True  True  True  True  True]; mscore: 0.3470031545741325:, mean AP: 0.6999570764253411
+file: 359.npz; rep: 0.5922865013774105; correct: [False  True  True  True  True  True]; mscore: 0.19937694704049844:, mean AP: 0.7394757440372236
+file: 360.npz; rep: 0.992; correct: [ True  True  True  True  True  True]; mscore: 0.975609756097561:, mean AP: 0.998800145959328
+file: 361.npz; rep: 0.9661016949152542; correct: [ True  True  True  True  True  True]; mscore: 0.7768595041322314:, mean AP: 0.9882421235073903
+file: 362.npz; rep: 0.96; correct: [False False False  True  True  True]; mscore: 0.19047619047619047:, mean AP: 0.7353635561968895
+file: 363.npz; rep: 0.970873786407767; correct: [False False False  True  True  True]; mscore: 0.09917355371900827:, mean AP: 0.25479778506094297
+file: 364.npz; rep: 0.8045977011494253; correct: [False False False False False False]; mscore: 0.09345794392523364:, mean AP: 0.3764194139194139
+file: 365.npz; rep: 0.5221238938053098; correct: [ True  True  True  True  True  True]; mscore: 0.4880382775119617:, mean AP: 0.8614680979819581
+file: 366.npz; rep: 0.5155555555555555; correct: [False  True  True  True  True  True]; mscore: 0.4195121951219512:, mean AP: 0.8055814967670916
+file: 367.npz; rep: 0.47619047619047616; correct: [False  True  True  True  True  True]; mscore: 0.42574257425742573:, mean AP: 0.8704315488998098
+file: 368.npz; rep: 0.4425531914893617; correct: [False  True  True  True  True  True]; mscore: 0.35348837209302325:, mean AP: 0.8427142987846379
+file: 369.npz; rep: 0.17699115044247787; correct: [False False False False False False]; mscore: 0.045662100456621:, mean AP: 0.16595789831083949
+file: 370.npz; rep: 0.6076555023923444; correct: [False  True  True  True  True  True]; mscore: 0.5408163265306123:, mean AP: 0.8644818979008297
+file: 371.npz; rep: 0.5217391304347826; correct: [False False False  True  True  True]; mscore: 0.2914572864321608:, mean AP: 0.717448270658529
+file: 372.npz; rep: 0.4880952380952381; correct: [False False False False  True  True]; mscore: 0.2653061224489796:, mean AP: 0.6806381846487992
+file: 373.npz; rep: 0.4861111111111111; correct: [False False False False False  True]; mscore: 0.19230769230769232:, mean AP: 0.8026175676175676
+file: 374.npz; rep: 0.022988505747126436; correct: [False False False False False False]; mscore: 0.20437956204379562:, mean AP: 0.618874563358369
+file: 375.npz; rep: 0.41025641025641024; correct: [ True  True  True  True  True  True]; mscore: 0.4048582995951417:, mean AP: 0.9136219051450765
+file: 376.npz; rep: 0.37037037037037035; correct: [False  True  True  True  True  True]; mscore: 0.3939393939393939:, mean AP: 0.9276925150450593
+file: 377.npz; rep: 0.3445692883895131; correct: [False  True  True  True  True  True]; mscore: 0.25833333333333336:, mean AP: 0.8140520141366528
+file: 378.npz; rep: 0.4020979020979021; correct: [False  True  True  True  True  True]; mscore: 0.38910505836575876:, mean AP: 0.79906190175656
+file: 379.npz; rep: 0.352; correct: [False  True  True  True  True  True]; mscore: 0.2907488986784141:, mean AP: 0.8463819240015154
+file: 380.npz; rep: 0.7228260869565217; correct: [ True  True  True  True  True  True]; mscore: 0.7730061349693251:, mean AP: 0.9586676994041483
+file: 381.npz; rep: 0.7647058823529411; correct: [ True  True  True  True  True  True]; mscore: 0.8:, mean AP: 0.9685124167087978
+file: 382.npz; rep: 0.47368421052631576; correct: [ True  True  True  True  True  True]; mscore: 0.43283582089552236:, mean AP: 0.819980715260327
+file: 383.npz; rep: 0.7628865979381443; correct: [ True  True  True  True  True  True]; mscore: 0.891566265060241:, mean AP: 0.995010464140931
+file: 384.npz; rep: 0.7611111111111111; correct: [ True  True  True  True  True  True]; mscore: 0.8301886792452831:, mean AP: 0.9206890954088043
+file: 385.npz; rep: 0.6417445482866043; correct: [ True  True  True  True  True  True]; mscore: 0.41198501872659177:, mean AP: 0.7637887014354235
+file: 386.npz; rep: 0.7509881422924901; correct: [False  True  True  True  True  True]; mscore: 0.4387755102040816:, mean AP: 0.624198219433635
+file: 387.npz; rep: 0.721030042918455; correct: [False  True  True  True  True  True]; mscore: 0.233502538071066:, mean AP: 0.4666485858601465
+file: 388.npz; rep: 0.8416289592760181; correct: [ True  True  True  True  True  True]; mscore: 0.40540540540540543:, mean AP: 0.6009528891263676
+file: 389.npz; rep: 0.7415254237288136; correct: [ True  True  True  True  True  True]; mscore: 0.31896551724137934:, mean AP: 0.6650360278681283
+file: 390.npz; rep: 0.7972972972972973; correct: [ True  True  True  True  True  True]; mscore: 0.9365079365079365:, mean AP: 0.92158265180242
+file: 391.npz; rep: 0.6790123456790124; correct: [ True  True  True  True  True  True]; mscore: 0.7007299270072993:, mean AP: 0.9830236842038685
+file: 392.npz; rep: 0.46938775510204084; correct: [False  True  True  True  True  True]; mscore: 0.4126984126984127:, mean AP: 0.9683142054340836
+file: 393.npz; rep: 0.4233576642335766; correct: [False  True  True  True  True  True]; mscore: 0.3728813559322034:, mean AP: 0.9999999999999998
+file: 394.npz; rep: 0.3878787878787879; correct: [ True  True  True  True  True  True]; mscore: 0.2777777777777778:, mean AP: 0.9091425999874752
+file: 395.npz; rep: 0.04678362573099415; correct: [False False False False False False]; mscore: 0.28402366863905326:, mean AP: 0.8117617149875213
+file: 396.npz; rep: 0.049689440993788817; correct: [False False False False False False]; mscore: 0.21176470588235294:, mean AP: 0.9654455179817498
+file: 397.npz; rep: 0.011904761904761904; correct: [False False False False False False]; mscore: 0.21348314606741572:, mean AP: 0.6671161585456914
+file: 398.npz; rep: 0.029850746268656716; correct: [False False False False False False]; mscore: 0.13986013986013987:, mean AP: 0.7705309396485869
+file: 399.npz; rep: 0.0379746835443038; correct: [False False False False False False]; mscore: 0.3088235294117647:, mean AP: 0.5810627709729063
+file: 400.npz; rep: 0.6205128205128205; correct: [False  True  True  True  True  True]; mscore: 0.47368421052631576:, mean AP: 0.9154467387407441
+file: 401.npz; rep: 0.4523809523809524; correct: [False False  True  True  True  True]; mscore: 0.2828282828282828:, mean AP: 0.6405985253581197
+file: 402.npz; rep: 0.5253164556962026; correct: [False  True  True  True  True  True]; mscore: 0.2948717948717949:, mean AP: 0.8436325752748097
+file: 403.npz; rep: 0.4797297297297297; correct: [False  True  True  True  True  True]; mscore: 0.2112676056338028:, mean AP: 0.8055555555555556
+file: 404.npz; rep: 0.6428571428571429; correct: [ True  True  True  True  True  True]; mscore: 0.4277456647398844:, mean AP: 0.7010517169821204
+file: 405.npz; rep: 0.4981684981684982; correct: [False  True  True  True  True  True]; mscore: 0.4112903225806452:, mean AP: 0.8170277796760534
+file: 406.npz; rep: 0.3984375; correct: [False  True  True  True  True  True]; mscore: 0.17293233082706766:, mean AP: 0.6347402291759021
+file: 407.npz; rep: 0.32558139534883723; correct: [False False False False  True  True]; mscore: 0.08461538461538462:, mean AP: 0.4117918069499097
+file: 408.npz; rep: 0.3241758241758242; correct: [False False False False  True  True]; mscore: 0.07751937984496124:, mean AP: 0.3930851008976009
+file: 409.npz; rep: 0.20454545454545456; correct: [False False False False False  True]; mscore: 0.07373271889400922:, mean AP: 0.27879767291532
+file: 410.npz; rep: 0.6351351351351351; correct: [ True  True  True  True  True  True]; mscore: 0.65625:, mean AP: 0.955117737094017
+file: 411.npz; rep: 0.6081081081081081; correct: [ True  True  True  True  True  True]; mscore: 0.5736434108527132:, mean AP: 0.9683082179637525
+file: 412.npz; rep: 0.7153284671532847; correct: [ True  True  True  True  True  True]; mscore: 0.628099173553719:, mean AP: 0.9810345227866883
+file: 413.npz; rep: 0.7196969696969697; correct: [ True  True  True  True  True  True]; mscore: 0.6956521739130435:, mean AP: 0.9848196670428069
+file: 414.npz; rep: 0.6439393939393939; correct: [ True  True  True  True  True  True]; mscore: 0.6608695652173913:, mean AP: 0.977759498832681
+file: 415.npz; rep: 0.10940919037199125; correct: [False False False False  True  True]; mscore: 0.4423076923076923:, mean AP: 0.8081340534991885
+file: 416.npz; rep: 0.057356608478802994; correct: [False False False False  True  True]; mscore: 0.3523035230352303:, mean AP: 0.8301711693516256
+file: 417.npz; rep: 0.07799442896935933; correct: [False False False False  True  True]; mscore: 0.1994750656167979:, mean AP: 0.69830411244062
+file: 418.npz; rep: 0.03951367781155015; correct: [False False False False False  True]; mscore: 0.10026385224274406:, mean AP: 0.6394538528729555
+file: 419.npz; rep: 0.0390625; correct: [False False False False False False]; mscore: 0.03821656050955414:, mean AP: 0.2056284121155602
+file: 420.npz; rep: 0.3764705882352941; correct: [False  True  True  True  True  True]; mscore: 0.2465753424657534:, mean AP: 0.6827380952380951
+file: 421.npz; rep: 0.30303030303030304; correct: [False False False False False False]; mscore: 0.12048192771084337:, mean AP: 0.8409090909090909
+file: 422.npz; rep: 0.32432432432432434; correct: [False False False False False False]; mscore: 0.11363636363636363:, mean AP: 0.5769230769230769
+file: 423.npz; rep: 0.35344827586206895; correct: [False False False  True  True  True]; mscore: 0.12371134020618557:, mean AP: 0.24363275613275615
+file: 424.npz; rep: 0.3709677419354839; correct: [False  True  True  True  True  True]; mscore: 0.17142857142857143:, mean AP: 0.5897186147186146
+file: 425.npz; rep: 0.4792626728110599; correct: [False  True  True  True  True  True]; mscore: 0.35294117647058826:, mean AP: 0.8865610755290981
+file: 426.npz; rep: 0.43434343434343436; correct: [False False  True  True  True  True]; mscore: 0.2857142857142857:, mean AP: 0.8879730065415032
+file: 427.npz; rep: 0.44919786096256686; correct: [False  True  True  True  True  True]; mscore: 0.2871287128712871:, mean AP: 0.875008221413486
+file: 428.npz; rep: 0.41081081081081083; correct: [False  True  True  True  True  True]; mscore: 0.3176470588235294:, mean AP: 0.8616920519094431
+file: 429.npz; rep: 0.22388059701492538; correct: [False False False False False False]; mscore: 0.07692307692307693:, mean AP: 0.876984126984127
+file: 430.npz; rep: 0.6470588235294118; correct: [ True  True  True  True  True  True]; mscore: 0.4228571428571429:, mean AP: 0.8155163304882507
+file: 431.npz; rep: 0.7377049180327869; correct: [ True  True  True  True  True  True]; mscore: 0.49230769230769234:, mean AP: 0.6590508737978791
+file: 432.npz; rep: 0.6950354609929078; correct: [False False False False False False]; mscore: 0.13793103448275862:, mean AP: 0.6703010497128143
+file: 433.npz; rep: 0.6413043478260869; correct: [False False  True  True  True  True]; mscore: 0.24489795918367346:, mean AP: 0.6934908016769245
+file: 434.npz; rep: 0.7379679144385026; correct: [False  True  True  True  True  True]; mscore: 0.3137254901960784:, mean AP: 0.7001673728318465
+file: 435.npz; rep: 0.30414746543778803; correct: [False False  True  True  True  True]; mscore: 0.215962441314554:, mean AP: 0.5565110212380562
+file: 436.npz; rep: 0.27102803738317754; correct: [False False False  True  True  True]; mscore: 0.10426540284360189:, mean AP: 0.4424422799422799
+file: 437.npz; rep: 0.2398190045248869; correct: [False  True  True  True  True  True]; mscore: 0.10576923076923077:, mean AP: 0.5184306574891996
+file: 438.npz; rep: 0.2222222222222222; correct: [False False False False False False]; mscore: 0.04926108374384237:, mean AP: 0.14729224980498323
+file: 439.npz; rep: 0.09444444444444444; correct: [False False False False False False]; mscore: 0.06417112299465241:, mean AP: 0.16638775622441684
+file: 440.npz; rep: 0.8397790055248618; correct: [ True  True  True  True  True  True]; mscore: 0.9230769230769231:, mean AP: 0.9692341245802909
+file: 441.npz; rep: 0.8228571428571428; correct: [False False  True  True  True  True]; mscore: 0.8311688311688312:, mean AP: 0.9950385463479512
+file: 442.npz; rep: 0.7582417582417582; correct: [False  True  True  True  True  True]; mscore: 0.7375:, mean AP: 0.9064295520885621
+file: 443.npz; rep: 0.7391304347826086; correct: [False  True  True  True  True  True]; mscore: 0.6583850931677019:, mean AP: 0.963392260332989
+file: 444.npz; rep: 0.686046511627907; correct: [False  True  True  True  True  True]; mscore: 0.4473684210526316:, mean AP: 0.9148198651330075
+file: 445.npz; rep: 0.746031746031746; correct: [False  True  True  True  True  True]; mscore: 0.5595238095238095:, mean AP: 0.9179783826317848
+file: 446.npz; rep: 0.5325443786982249; correct: [False  True  True  True  True  True]; mscore: 0.15568862275449102:, mean AP: 0.3000973844995584
+file: 447.npz; rep: 0.43333333333333335; correct: [False False False False False False]; mscore: 0.09271523178807947:, mean AP: 0.5289272030651342
+file: 448.npz; rep: 0.35172413793103446; correct: [False False False False False False]; mscore: 0.06622516556291391:, mean AP: 0.2525549613784908
+file: 449.npz; rep: 0.3208955223880597; correct: [False False False False False False]; mscore: 0.096:, mean AP: 0.20803030303030304
+file: 450.npz; rep: 0.43686006825938567; correct: [False  True  True  True  True  True]; mscore: 0.31343283582089554:, mean AP: 0.7324694438320778
+file: 451.npz; rep: 0.4074074074074074; correct: [False  True  True  True  True  True]; mscore: 0.16842105263157894:, mean AP: 0.7309522405363345
+file: 452.npz; rep: 0.35172413793103446; correct: [False False False False  True  True]; mscore: 0.13513513513513514:, mean AP: 0.7665387968802755
+file: 453.npz; rep: 0.3130081300813008; correct: [False False  True  True  True  True]; mscore: 0.14655172413793102:, mean AP: 0.4552264315234358
+file: 454.npz; rep: 0.26244343891402716; correct: [False False False False False False]; mscore: 0.05172413793103448:, mean AP: 0.21157661782661782
+file: 455.npz; rep: 0.7379679144385026; correct: [ True  True  True  True  True  True]; mscore: 0.8607594936708861:, mean AP: 0.992477745916965
+file: 456.npz; rep: 0.6344086021505376; correct: [ True  True  True  True  True  True]; mscore: 0.6878980891719745:, mean AP: 0.9801281373056924
+file: 457.npz; rep: 0.5698924731182796; correct: [ True  True  True  True  True  True]; mscore: 0.6193548387096774:, mean AP: 0.9689378839401881
+file: 458.npz; rep: 0.5473684210526316; correct: [ True  True  True  True  True  True]; mscore: 0.5949367088607594:, mean AP: 0.7375441467983532
+file: 459.npz; rep: 0.49760765550239233; correct: [ True  True  True  True  True  True]; mscore: 0.5029239766081871:, mean AP: 0.6993871862435224
+file: 460.npz; rep: 0.12142857142857143; correct: [False False False False False  True]; mscore: 0.23622047244094488:, mean AP: 0.6452995310890459
+file: 461.npz; rep: 0.07692307692307693; correct: [False False False False False False]; mscore: 0.5833333333333334:, mean AP: 0.9495362719791742
+file: 462.npz; rep: 0.12751677852348994; correct: [False False False False False  True]; mscore: 0.3157894736842105:, mean AP: 0.6460436757624952
+file: 463.npz; rep: 0.11258278145695365; correct: [False False False False False  True]; mscore: 0.1897810218978102:, mean AP: 0.6436920922215039
+file: 464.npz; rep: 0.055944055944055944; correct: [False False False False False False]; mscore: 0.43410852713178294:, mean AP: 0.8369909066697395
+file: 465.npz; rep: 0.41025641025641024; correct: [False False  True  True  True  True]; mscore: 0.24734982332155478:, mean AP: 0.9101868229181358
+file: 466.npz; rep: 0.27472527472527475; correct: [False False False False False  True]; mscore: 0.08029197080291971:, mean AP: 0.5623165975438702
+file: 467.npz; rep: 0.504885993485342; correct: [ True  True  True  True  True  True]; mscore: 0.3582089552238806:, mean AP: 0.7259788347755629
+file: 468.npz; rep: 0.4026548672566372; correct: [False False False  True  True  True]; mscore: 0.12260536398467432:, mean AP: 0.6116298957598734
+file: 469.npz; rep: 0.4981132075471698; correct: [False False  True  True  True  True]; mscore: 0.19672131147540983:, mean AP: 0.5275953799134289
+file: 470.npz; rep: 0.8515625; correct: [ True  True  True  True  True  True]; mscore: 0.9184549356223176:, mean AP: 0.998701750366352
+file: 471.npz; rep: 0.6015625; correct: [ True  True  True  True  True  True]; mscore: 0.3628691983122363:, mean AP: 0.93464243961374
+file: 472.npz; rep: 0.5698924731182796; correct: [False  True  True  True  True  True]; mscore: 0.2139917695473251:, mean AP: 0.4960414446200399
+file: 473.npz; rep: 0.5614035087719298; correct: [ True  True  True  True  True  True]; mscore: 0.24096385542168675:, mean AP: 0.49530278977526526
+file: 474.npz; rep: 0.5827067669172933; correct: [False  True  True  True  True  True]; mscore: 0.28205128205128205:, mean AP: 0.7655091928930885
+file: 475.npz; rep: 0.746606334841629; correct: [ True  True  True  True  True  True]; mscore: 0.8777777777777778:, mean AP: 0.9724271374946061
+file: 476.npz; rep: 0.7412280701754386; correct: [ True  True  True  True  True  True]; mscore: 0.8253968253968254:, mean AP: 0.9810174756196752
+file: 477.npz; rep: 0.521551724137931; correct: [ True  True  True  True  True  True]; mscore: 0.5177664974619289:, mean AP: 0.8005252914057128
+file: 478.npz; rep: 0.6198347107438017; correct: [ True  True  True  True  True  True]; mscore: 0.6507177033492823:, mean AP: 0.9202217548861154
+file: 479.npz; rep: 0.4703389830508475; correct: [False  True  True  True  True  True]; mscore: 0.39378238341968913:, mean AP: 0.8259797415895318
+file: 480.npz; rep: 0.2634920634920635; correct: [False False False  True  True  True]; mscore: 0.09811320754716982:, mean AP: 0.3787266887334092
+file: 481.npz; rep: 0.48717948717948717; correct: [False False  True  True  True  True]; mscore: 0.3020408163265306:, mean AP: 0.72146800737891
+file: 482.npz; rep: 0.3595890410958904; correct: [False False  True  True  True  True]; mscore: 0.20930232558139536:, mean AP: 0.6459820274876954
+file: 483.npz; rep: 0.40145985401459855; correct: [False  True  True  True  True  True]; mscore: 0.19166666666666668:, mean AP: 0.5578703459304419
+file: 484.npz; rep: 0.281786941580756; correct: [False False False  True  True  True]; mscore: 0.22580645161290322:, mean AP: 0.6638065527175038
+file: 485.npz; rep: 0.4182825484764543; correct: [False  True  True  True  True  True]; mscore: 0.3055555555555556:, mean AP: 0.6978449349894963
+file: 486.npz; rep: 0.2972027972027972; correct: [False False  True  True  True  True]; mscore: 0.19230769230769232:, mean AP: 0.703127256516979
+file: 487.npz; rep: 0.3715170278637771; correct: [ True  True  True  True  True  True]; mscore: 0.29965156794425085:, mean AP: 0.8695093225982358
+file: 488.npz; rep: 0.20503597122302158; correct: [False False  True  True  True  True]; mscore: 0.12408759124087591:, mean AP: 0.685579231692677
+file: 489.npz; rep: 0.16044776119402984; correct: [False False False False False False]; mscore: 0.044444444444444446:, mean AP: 0.1302123488824256
+file: 490.npz; rep: 0.026845637583892617; correct: [False False False False False False]; mscore: 0.08108108108108109:, mean AP: 0.33653679653679647
+file: 491.npz; rep: 0.05806451612903226; correct: [False False False False False False]; mscore: 0.05952380952380952:, mean AP: 0.19391534391534393
+file: 492.npz; rep: 0.024096385542168676; correct: [False False False False False False]; mscore: 0.05813953488372093:, mean AP: 0.4380862193362194
+file: 493.npz; rep: 0.030456852791878174; correct: [False False False False False  True]; mscore: 0.33170731707317075:, mean AP: 0.5609567399359842
+file: 494.npz; rep: 0.10106382978723404; correct: [False False False False False  True]; mscore: 0.12371134020618557:, mean AP: 0.31209984836438326
+file: 495.npz; rep: 0.3346456692913386; correct: [ True  True  True  True  True  True]; mscore: 0.21818181818181817:, mean AP: 0.7502357667784125
+file: 496.npz; rep: 0.2857142857142857; correct: [False False False  True  True  True]; mscore: 0.10358565737051793:, mean AP: 0.6073190309041091
+file: 497.npz; rep: 0.3727598566308244; correct: [False  True  True  True  True  True]; mscore: 0.26053639846743293:, mean AP: 0.8084752847475012
+file: 498.npz; rep: 0.3633217993079585; correct: [False  True  True  True  True  True]; mscore: 0.23134328358208955:, mean AP: 0.8105232507130706
+file: 499.npz; rep: 0.3068181818181818; correct: [False False False  True  True  True]; mscore: 0.09737827715355805:, mean AP: 0.5797141472868217
+file: 500.npz; rep: 0.569023569023569; correct: [False  True  True  True  True  True]; mscore: 0.2518518518518518:, mean AP: 0.5611745200729075
+file: 501.npz; rep: 0.5337620578778135; correct: [False  True  True  True  True  True]; mscore: 0.2037735849056604:, mean AP: 0.44967839802276166
+file: 502.npz; rep: 0.5714285714285714; correct: [False  True  True  True  True  True]; mscore: 0.2151394422310757:, mean AP: 0.690612317586424
+file: 503.npz; rep: 0.5847750865051903; correct: [ True  True  True  True  True  True]; mscore: 0.20392156862745098:, mean AP: 0.7046240162843747
+file: 504.npz; rep: 0.473015873015873; correct: [False  True  True  True  True  True]; mscore: 0.15037593984962405:, mean AP: 0.8107568989218785
+file: 505.npz; rep: 0.64; correct: [ True  True  True  True  True  True]; mscore: 0.6037735849056604:, mean AP: 0.9375166464502657
+file: 506.npz; rep: 0.5619047619047619; correct: [False  True  True  True  True  True]; mscore: 0.5333333333333333:, mean AP: 0.7579913408430906
+file: 507.npz; rep: 0.7091633466135459; correct: [ True  True  True  True  True  True]; mscore: 0.7203791469194313:, mean AP: 0.8510521649914907
+file: 508.npz; rep: 0.5661764705882353; correct: [ True  True  True  True  True  True]; mscore: 0.46296296296296297:, mean AP: 0.674129821969062
+file: 509.npz; rep: 0.6063348416289592; correct: [False  True  True  True  True  True]; mscore: 0.6344086021505376:, mean AP: 0.8149792937453689
+file: 510.npz; rep: 0.4858757062146893; correct: [ True  True  True  True  True  True]; mscore: 0.3068181818181818:, mean AP: 0.8038540231594717
+file: 511.npz; rep: 0.5236220472440944; correct: [ True  True  True  True  True  True]; mscore: 0.4700460829493088:, mean AP: 0.9111745618585113
+file: 512.npz; rep: 0.49612403100775193; correct: [False  True  True  True  True  True]; mscore: 0.4472573839662447:, mean AP: 0.7530499065054567
+file: 513.npz; rep: 0.4484536082474227; correct: [False False False False False  True]; mscore: 0.24892703862660945:, mean AP: 0.8872321252917033
+file: 514.npz; rep: 0.30303030303030304; correct: [False False False False False False]; mscore: 0.08411214953271028:, mean AP: 0.7349635349635351
+file: 515.npz; rep: 0.44866920152091255; correct: [ True  True  True  True  True  True]; mscore: 0.464:, mean AP: 0.6839207682605173
+file: 516.npz; rep: 0.48672566371681414; correct: [False  True  True  True  True  True]; mscore: 0.3876651982378855:, mean AP: 0.8774227559184655
+file: 517.npz; rep: 0.5784313725490197; correct: [False  True  True  True  True  True]; mscore: 0.308411214953271:, mean AP: 0.9030142018571091
+file: 518.npz; rep: 0.40641711229946526; correct: [False False  True  True  True  True]; mscore: 0.09777777777777778:, mean AP: 0.5606369631185807
+file: 519.npz; rep: 0.29878048780487804; correct: [False False False False False False]; mscore: 0.07142857142857142:, mean AP: 0.32830687830687827
+file: 520.npz; rep: 0.3384615384615385; correct: [False  True  True  True  True  True]; mscore: 0.2530612244897959:, mean AP: 0.9104288240472607
+file: 521.npz; rep: 0.13930348258706468; correct: [False False False False False False]; mscore: 0.05357142857142857:, mean AP: 0.49197513013302485
+file: 522.npz; rep: 0.14358974358974358; correct: [False False False False False False]; mscore: 0.06611570247933884:, mean AP: 0.5873273458567576
+file: 523.npz; rep: 0.12435233160621761; correct: [False False False False False False]; mscore: 0.05357142857142857:, mean AP: 0.21499104343931932
+file: 524.npz; rep: 0.17475728155339806; correct: [False False False False  True  True]; mscore: 0.08906882591093117:, mean AP: 0.49300271950271946
+file: 525.npz; rep: 0.49770642201834864; correct: [False False  True  True  True  True]; mscore: 0.30238726790450926:, mean AP: 0.7215351477648071
+file: 526.npz; rep: 0.3559322033898305; correct: [False False  True  True  True  True]; mscore: 0.24533333333333332:, mean AP: 0.6642942715487552
+file: 527.npz; rep: 0.4334862385321101; correct: [False  True  True  True  True  True]; mscore: 0.34615384615384615:, mean AP: 0.7362740238418368
+file: 528.npz; rep: 0.37910447761194027; correct: [False  True  True  True  True  True]; mscore: 0.27450980392156865:, mean AP: 0.5752643365373771
+file: 529.npz; rep: 0.2607361963190184; correct: [False  True  True  True  True  True]; mscore: 0.18791946308724833:, mean AP: 0.8455223581321749
+file: 530.npz; rep: 0.5821596244131455; correct: [False  True  True  True  True  True]; mscore: 0.5146198830409356:, mean AP: 0.8762576023373729
+file: 531.npz; rep: 0.4437869822485207; correct: [False False False  True  True  True]; mscore: 0.26865671641791045:, mean AP: 0.7826147436441554
+file: 532.npz; rep: 0.5508021390374331; correct: [False  True  True  True  True  True]; mscore: 0.3684210526315789:, mean AP: 0.7766532621263453
+file: 533.npz; rep: 0.7011494252873564; correct: [False  True  True  True  True  True]; mscore: 0.5897435897435898:, mean AP: 0.9447673135006385
+file: 534.npz; rep: 0.5631067961165048; correct: [False False False  True  True  True]; mscore: 0.3829787234042553:, mean AP: 0.783247855296463
+file: 535.npz; rep: 0.5415162454873647; correct: [ True  True  True  True  True  True]; mscore: 0.5783132530120482:, mean AP: 0.7967503270030324
+file: 536.npz; rep: 0.45353159851301117; correct: [False  True  True  True  True  True]; mscore: 0.38016528925619836:, mean AP: 0.8165974468837264
+file: 537.npz; rep: 0.298932384341637; correct: [False  True  True  True  True  True]; mscore: 0.3058823529411765:, mean AP: 0.8057835978642254
+file: 538.npz; rep: 0.3595505617977528; correct: [False  True  True  True  True  True]; mscore: 0.2396694214876033:, mean AP: 0.8080221469721511
+file: 539.npz; rep: 0.6972789115646258; correct: [ True  True  True  True  True  True]; mscore: 0.7490636704119851:, mean AP: 0.9421452490120986
+file: 540.npz; rep: 0.7072072072072072; correct: [ True  True  True  True  True  True]; mscore: 0.5714285714285714:, mean AP: 0.857864691460371
+file: 541.npz; rep: 0.6491228070175439; correct: [False  True  True  True  True  True]; mscore: 0.5081081081081081:, mean AP: 0.8309632873588866
+file: 542.npz; rep: 0.6527777777777778; correct: [False  True  True  True  True  True]; mscore: 0.4406779661016949:, mean AP: 0.7804605135499
+file: 543.npz; rep: 0.6521739130434783; correct: [ True  True  True  True  True  True]; mscore: 0.5847953216374269:, mean AP: 0.9241661003219096
+file: 544.npz; rep: 0.6515837104072398; correct: [ True  True  True  True  True  True]; mscore: 0.6033519553072626:, mean AP: 0.747938028398902
+file: 545.npz; rep: 0.4343065693430657; correct: [False  True  True  True  True  True]; mscore: 0.3321554770318021:, mean AP: 0.7778241355425206
+file: 546.npz; rep: 0.3403361344537815; correct: [False  True  True  True  True  True]; mscore: 0.2214765100671141:, mean AP: 0.8356969511944711
+file: 547.npz; rep: 0.4427860696517413; correct: [ True  True  True  True  True  True]; mscore: 0.2857142857142857:, mean AP: 0.8671935648083083
+file: 548.npz; rep: 0.48717948717948717; correct: [False  True  True  True  True  True]; mscore: 0.3783783783783784:, mean AP: 0.9200438078397608
+file: 549.npz; rep: 0.45787545787545786; correct: [False  True  True  True  True  True]; mscore: 0.4365079365079365:, mean AP: 0.8285641427523608
+file: 550.npz; rep: 0.7981651376146789; correct: [ True  True  True  True  True  True]; mscore: 0.7551020408163265:, mean AP: 0.969640375192127
+file: 551.npz; rep: 0.4620253164556962; correct: [False False False False False False]; mscore: 0.06818181818181818:, mean AP: 0.2594921301854075
+file: 552.npz; rep: 0.4266666666666667; correct: [False False False False False False]; mscore: 0.09090909090909091:, mean AP: 0.43040293040293043
+file: 553.npz; rep: 0.2805755395683453; correct: [False False False False False False]; mscore: 0.06993006993006994:, mean AP: 0.18963487779277252
+file: 554.npz; rep: 0.13076923076923078; correct: [False False False False False False]; mscore: 0.07462686567164178:, mean AP: 0.2240079365079365
+file: 555.npz; rep: 0.8771331058020477; correct: [ True  True  True  True  True  True]; mscore: 0.8794326241134752:, mean AP: 0.9697798667264578
+file: 556.npz; rep: 0.6348122866894198; correct: [ True  True  True  True  True  True]; mscore: 0.5070422535211268:, mean AP: 0.7643064089019145
+file: 557.npz; rep: 0.5537974683544303; correct: [ True  True  True  True  True  True]; mscore: 0.23333333333333334:, mean AP: 0.7605807160811332
+file: 558.npz; rep: 0.639344262295082; correct: [ True  True  True  True  True  True]; mscore: 0.4280701754385965:, mean AP: 0.9164874167125978
+file: 559.npz; rep: 0.5918367346938775; correct: [ True  True  True  True  True  True]; mscore: 0.2878228782287823:, mean AP: 0.7788386036944838
+file: 560.npz; rep: 0.44357976653696496; correct: [False  True  True  True  True  True]; mscore: 0.3524229074889868:, mean AP: 0.9224206010283251
+file: 561.npz; rep: 0.3776824034334764; correct: [ True  True  True  True  True  True]; mscore: 0.3004694835680751:, mean AP: 0.7352327717844622
+file: 562.npz; rep: 0.40816326530612246; correct: [False  True  True  True  True  True]; mscore: 0.2831858407079646:, mean AP: 0.7743916575877668
+file: 563.npz; rep: 0.37398373983739835; correct: [False  True  True  True  True  True]; mscore: 0.21238938053097345:, mean AP: 0.563463280136212
+file: 564.npz; rep: 0.41732283464566927; correct: [False  True  True  True  True  True]; mscore: 0.22321428571428573:, mean AP: 0.6845104382488282
+file: 565.npz; rep: 0.39490445859872614; correct: [False False False  True  True  True]; mscore: 0.16352201257861634:, mean AP: 0.43960538473384325
+file: 566.npz; rep: 0.3416149068322981; correct: [False False False False False False]; mscore: 0.1037037037037037:, mean AP: 0.24128001628001627
+file: 567.npz; rep: 0.3412698412698413; correct: [False  True  True  True  True  True]; mscore: 0.17054263565891473:, mean AP: 0.8362745098039215
+file: 568.npz; rep: 0.4094488188976378; correct: [False False  True  True  True  True]; mscore: 0.1267605633802817:, mean AP: 0.38364239926739924
+file: 569.npz; rep: 0.34444444444444444; correct: [False False False False False  True]; mscore: 0.1267605633802817:, mean AP: 0.6048730671537689
+file: 570.npz; rep: 0.5401785714285714; correct: [ True  True  True  True  True  True]; mscore: 0.4090909090909091:, mean AP: 0.8435210074871782
+file: 571.npz; rep: 0.3193717277486911; correct: [False False False False False False]; mscore: 0.06153846153846154:, mean AP: 0.5041119791119791
+file: 572.npz; rep: 0.4425531914893617; correct: [False  True  True  True  True  True]; mscore: 0.27860696517412936:, mean AP: 0.8454515842492428
+file: 573.npz; rep: 0.3427230046948357; correct: [False False  True  True  True  True]; mscore: 0.18357487922705315:, mean AP: 0.7561186304023525
+file: 574.npz; rep: 0.20212765957446807; correct: [False False  True  True  True  True]; mscore: 0.08530805687203792:, mean AP: 0.6740907240907241
+file: 575.npz; rep: 0.5735294117647058; correct: [ True  True  True  True  True  True]; mscore: 0.5655737704918032:, mean AP: 0.8891904685198773
+file: 576.npz; rep: 0.6967213114754098; correct: [ True  True  True  True  True  True]; mscore: 0.6407766990291263:, mean AP: 0.714267599357485
+file: 577.npz; rep: 0.3584905660377358; correct: [False False False False  True  True]; mscore: 0.1288135593220339:, mean AP: 0.759822317625255
+file: 578.npz; rep: 0.5333333333333333; correct: [False  True  True  True  True  True]; mscore: 0.3776824034334764:, mean AP: 0.9096242928636321
+file: 579.npz; rep: 0.39655172413793105; correct: [False False False False False  True]; mscore: 0.1711229946524064:, mean AP: 0.8265633938710861
+======== end ========
